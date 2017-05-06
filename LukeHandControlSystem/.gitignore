@@ -8,6 +8,8 @@
 *.ilk
 *.idb
 *.tlog
+**/Debug/*.log
+**/Release/*.log
 **/Debug/*.obj
 **/Release/*.obj
 **/Debug/*.pdb
